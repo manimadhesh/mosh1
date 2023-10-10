@@ -1,0 +1,12 @@
+.author-img{
+    border-radius:50px;
+    float:left;
+    margin-right:10px;
+}
+.author-name{
+    font-weight: bold;
+}
+p{
+    font-weight:bold;
+}
+em{color:red;}
